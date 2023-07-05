@@ -1,4 +1,3 @@
-#!/usr/bin/python3
 # take string input for str1 and str2
 str1 = input()
 str2 = input()
